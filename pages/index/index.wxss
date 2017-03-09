@@ -1,0 +1,9 @@
+.key{
+  width:80%;
+  height:50px;
+  float:left;
+  background-color: #333333;
+  color: white;
+  margin-top: 50px;
+  margin-left: 10%;
+}

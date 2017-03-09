@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/piano/index",
+    "pages/calculator/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#333333",
+    "navigationBarTitleText": "钢琴和计算器",
+    "navigationBarTextStyle":"white"
+  }
+}
